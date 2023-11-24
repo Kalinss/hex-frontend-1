@@ -1,0 +1,13 @@
+:root {
+  --nav-color: #686565;
+  --primary-color: #2000e7;
+  --second-color: #f2bd00;
+  --text-color: #383838;
+
+  --box-shadow-1: 11px 21px 15px 6px rgba(0, 0, 0, 0.25);
+
+  --bg-second: rgba(255, 214, 150, 0.2);
+  --bg-third: rgba(67, 186, 253, 0.06);
+
+  --secondFont: "Jost", "Arial";
+}

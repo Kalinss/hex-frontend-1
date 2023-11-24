@@ -1,0 +1,23 @@
+{
+  "name": "hex-frontend-1",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel serve src/index.html -p 3000"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "prettier": "^2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalinss/hex-frontend-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalinss/hex-frontend-1/issues"
+  },
+  "homepage": "https://github.com/Kalinss/hex-frontend-1#readme",
+  "description": ""
+}
